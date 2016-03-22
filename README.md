@@ -19,10 +19,14 @@ Kegiatan yang dilakukan dalam praktikum ODK yaitu :
 Isi dari [form.xml][3] pembelian yaitu :
 
  1. Nama Barang
- 2. Jenis Barang
- 3. Keterangan Barang
- 4. Lokasi pembelian
- 5. a
+ 2. Nama Pihak Pembeli
+ 3. Jenis Barang
+ 4. Keterangan
+ 5. Jumlah Barang
+ 6. Tempat Pembelian
+ 7. Tanggal Pembelian
+ 8. Harga per Unit
+ 9. Harga Total
 
 hasil dari form : [form.doc][4]
 
