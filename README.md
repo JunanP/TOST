@@ -36,6 +36,6 @@ hasil dari form : [form.doc][4]
 
   [1]: http://opendatakit.org/downloads
   [2]: http://www.bluestacks.com/download.html
-  [3]: https://github.com/JunanP/TOST/blob/master/form/form.xml
-  [4]: https://github.com/JunanP/TOST/blob/master/doc/form.doc
+  [3]: /form/form.xml
+  [4]: /doc/form.doc
   [img1]: /SS/SS.jpg "SS ODK"
