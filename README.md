@@ -16,7 +16,7 @@ Kegiatan yang dilakukan dalam praktikum ODK yaitu :
 
 ###Penjelasan Form
 
-Isi dari form pembelian yaitu :
+Isi dari [form.xml][3] pembelian yaitu :
 
  1. Nama Barang
  2. Jenis Barang
@@ -24,5 +24,14 @@ Isi dari form pembelian yaitu :
  4. Lokasi pembelian
  5. a
 
+hasil dari form : [form.doc][4]
+
+###Gambar didalam ODK
+
+![SS ODK][img1]
+
   [1]: http://opendatakit.org/downloads
   [2]: http://www.bluestacks.com/download.html
+  [3]: https://github.com/JunanP/TOST/blob/master/form/form.xml
+  [4]: https://github.com/JunanP/TOST/blob/master/doc/form.doc
+  [img1]: /SS/SS.jpg "SS ODK"
