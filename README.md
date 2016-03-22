@@ -1,8 +1,8 @@
 #TOST
 
 *Berhubungan dengan mata kuliah TOST<br>
-Nama : Junan Prakoso Iqbal<br>
-NRP &nbsp; : 5212100115*
+Nama : Andrianto Suwignyo & Junan Prakoso Iqbal<br>
+NRP &nbsp; : 5212100090 & 5212100115*
 
 ##Open Data Kit
 
